@@ -1,4 +1,4 @@
-🚀 #Crypto Time Series Analysis Project
+🚀** Crypto Time Series Analysis Project**
 
 📊 Overview
 
